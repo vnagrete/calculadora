@@ -1,2 +1,1 @@
-$ echo '<?php include_once("frontend.html"); ?>' > index.php
-$ echo '{}' > composer.json
+<?php include_once("frontend.html"); ?>
