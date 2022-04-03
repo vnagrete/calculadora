@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(20, 20, 20);
+    color:white;
+    font-family: Times New Roman, Arial;
+    font-size: 18px;
+}
+p{
+line-height: 15px;
+}
+label{
+padding: 10px;
+line-height: 30px;
+}
